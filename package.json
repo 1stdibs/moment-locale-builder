@@ -1,0 +1,20 @@
+{
+  "name": "moment-locale-builder",
+  "version": "1.0.0",
+  "description": "builds moment instances configured to specific locales",
+  "main": "moment-locale-builder.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Thomas Hallock",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.map": "^3.1.4",
+    "lodash.zipobject": "^3.0.0",
+    "moment": "^2.10.6",
+    "uuid": "^2.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
