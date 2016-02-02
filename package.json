@@ -16,5 +16,16 @@
   },
   "devDependencies": {
     "mocha": "^2.3.4"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1stdibs/moment-locale-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/1stdibs/moment-locale-builder/issues"
+  },
+  "homepage": "https://github.com/1stdibs/moment-locale-builder#readme"
 }
