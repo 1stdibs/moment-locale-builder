@@ -1,6 +1,6 @@
 {
   "name": "moment-locale-builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "builds moment instances configured to specific locales",
   "main": "moment-locale-builder.js",
   "scripts": {
